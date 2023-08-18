@@ -1,11 +1,12 @@
 # 💫 About Me:
-Hi! My name is Tushar Shah. I am currently in my final year of Bsc Data Analytics.
+🔭 Hi! I'm Tushar Shah. I am currently in my final year of Bsc Data Analytics. , I am a Data Analyst | Aspiring Data Scientist<br>
+
 My passion has always been for data analysis, and I relish the challenge of transforming unstructured data into knowledge that can inform important business choices. I have a profound understanding of data collection, cleaning, analysis, and visualization techniques, as well as the ability to effectively communicate complex findings.
 
 I am proficient in SQL for data manipulation and have a strong command of analytical tools such as Python, R, and Excel. Additionally, I am well-versed in data visualization tools like Tableau and Power BI, allowing me to present data insights in a visually compelling and intuitive manner.
 
 
-🔭 Hi, I'm Tushar Shah , Data Analyst | Aspiring Data Scientist<br>👯 I’m looking to collaborate on Machine Learning | Deep Learning | Case Studies<br>🤝 I’m looking for help with Deep Learning & ComputerVision(CV) br>🌱 I’m currently learning Deep Learning & Computer Vision.<br>💬 Ask me about any queries , collaboration about Data related. Will be happy to associate.<br>⚡ I do Trading💵 & Music🎸 for Hobby.
+👯 I’m looking to collaborate on Machine Learning | Deep Learning | Case Studies<br>🤝 I’m looking for help with Deep Learning & ComputerVision(CV) br>🌱 I’m currently learning Deep Learning & Computer Vision.<br>💬 Ask me about any queries , collaboration about Data related. Will be happy to associate.<br>⚡ I do Trading💵 & Music🎸 for Hobby.
 Hobby
 
 
