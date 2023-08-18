@@ -6,8 +6,7 @@ My passion has always been for data analysis, and I relish the challenge of tran
 I am proficient in SQL for data manipulation and have a strong command of analytical tools such as Python, R, and Excel. Additionally, I am well-versed in data visualization tools like Tableau and Power BI, allowing me to present data insights in a visually compelling and intuitive manner.
 
 
-👯 I’m looking to collaborate on Machine Learning | Deep Learning | Case Studies<br>🤝 I’m looking for help with Deep Learning & ComputerVision(CV) br>🌱 I’m currently learning Deep Learning & Computer Vision.<br>💬 Ask me about any queries , collaboration about Data related. Will be happy to associate.<br>⚡ I do Trading💵 & Music🎸 for Hobby.
-Hobby
+👯 I’m looking to collaborate on Machine Learning | Deep Learning | Case Studies<br>🤝 I’m looking for help with Deep Learning & ComputerVision(CV) <br>🌱 I’m currently learning Deep Learning & Computer Vision.<br>💬 Ask me about any queries , collaboration about Data related. Will be happy to associate.<br>⚡ I do Trading💵 & Music🎸 for Hobby.
 
 
 ## 🌐 Socials:
