@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Hi, I'm Tushar Shah , Data Analyst | Aspiring Data Scientist<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Deep Learning & Computer Vision.<br>💬 Ask me about any queries , collaboration about Data related. Will be happy to associate.<br>⚡ I do Trading & Music for Hobby
+🔭 Hi, I'm Tushar Shah , Data Analyst | Aspiring Data Scientist<br>👯 I’m looking to collaborate on Machine Learning | Deep Learning | Case Studies<br>🤝 I’m looking for help with Deep Learning & ComputerVision(CV) br>🌱 I’m currently learning Deep Learning & Computer Vision.<br>💬 Ask me about any queries , collaboration about Data related. Will be happy to associate.<br>⚡ I do Trading💵 & Music🎸 for Hobby.
+Hobby
 
 
 ## 🌐 Socials:
